@@ -1,7 +1,6 @@
 
 # examen final db mysql
 # autor: joseph manuel jaimes florez
-# fecha: 2024-11-25
 
 # Sistema de Gestión de Pizzería
 implemente una base de datos MySQL para gestionar productos, combos, pedidos y clientes de una pizzería.
